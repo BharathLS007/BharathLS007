@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bharath and I'm Recently completedd My  B.E. Computer Science Engineering From University College of Engineering, Nagercoil
+I'm Bharath and I'm Recently completed My  B.E. Computer Science Engineering From University College of Engineering, Nagercoil
 
 ## Visit My Portfoilio Website
 
