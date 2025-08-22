@@ -11,8 +11,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BharathLS007&theme=dark&hide_border=false)
 
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathLS007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Bharath's GitHub Streak](https://streak-stats.demolab.com/?user=BharathLS007&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathLS007&theme=dark&hide_border=false&layout=compact)
+
 ![](https://github-profile-trophy.vercel.app/?username=BharathLS007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
